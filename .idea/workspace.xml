@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="47736e0d-2299-4990-8bf2-58a5ce208e1e" name="Changes" comment="header is done">
-      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/Amazeriffic/img/light.png" afterDir="false" />
+    <list default="true" id="47736e0d-2299-4990-8bf2-58a5ce208e1e" name="Changes" comment="main готов">
+      <change afterPath="$APPLICATION_HOME_DIR$/jbr/bin/Amazeriffic/faq.html" afterDir="false" />
       <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/Amazeriffic/.idea/workspace.xml" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/Amazeriffic/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$APPLICATION_HOME_DIR$/jbr/bin/Amazeriffic/index.html" beforeDir="false" afterPath="$APPLICATION_HOME_DIR$/jbr/bin/Amazeriffic/index.html" afterDir="false" />
     </list>
@@ -54,7 +54,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678707547478</updated>
-      <workItem from="1678707548604" duration="2190000" />
+      <workItem from="1678707548604" duration="2230000" />
+      <workItem from="1678743511032" duration="479000" />
     </task>
     <task id="LOCAL-00001" summary="header is done">
       <created>1678708098571</created>
@@ -63,7 +64,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678708098571</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="main готов">
+      <created>1678709767614</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678709767614</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,6 +90,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="header is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="header is done" />
+    <MESSAGE value="main готов" />
+    <option name="LAST_COMMIT_MESSAGE" value="main готов" />
   </component>
 </project>
